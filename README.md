@@ -4,12 +4,7 @@ A simple movie trailer website project for Udacity's full-stack [nanodegree prog
 
 ## Demo
 
-For a demo, check out !
-
-### What's included
-
-Within the download you'll find the following directories and files:
-
+For a demo, check out https://osamaalfaify.github.io/udacity_movie_trailer_project/. !
 ```
 udacity-movie-trailer-project-master.zip/
 ├── css/
