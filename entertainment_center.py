@@ -1,6 +1,7 @@
 import fresh_tomatoes
 import media
 
+
 """
 declare favorite movies, with 4 args each:
 title (movie's title)

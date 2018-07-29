@@ -6,12 +6,12 @@ A simple movie trailer website project for Udacity's full-stack [nanodegree prog
 
 For a demo, check out !
 
+https://github.com/OsamaAlfaify/udacity_movie_trailer_project
+
 ### What's included
 
 Within the download you'll find the following directories and files:
 
-```
-udacity-movie-trailer-project-master.zip/
 ├── css/
 │   └── main.css
 ├── img/
