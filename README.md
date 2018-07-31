@@ -9,6 +9,8 @@ For a demo, check out !
 
 https://github.com/OsamaAlfaify/udacity_movie_trailer_project
 
+Check this link and download the file
+
 ### What's included
 
 Within the download you'll find the following directories and files:

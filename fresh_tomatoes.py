@@ -2,6 +2,7 @@ import webbrowser
 import os
 import re
 
+
 # HTML head element information for the movie trailer page
 main_page_head = '''
 <!DOCTYPE html>
