@@ -7,7 +7,11 @@ For a demo, check out !
 
 https://github.com/OsamaAlfaify/udacity_movie_trailer_project
 
-Check this link and download the file.
+1)Open this link apove.
+2)Clone the diractory.
+3)Open the file using Python IDLE or any IDLE do you prefer.
+4)Go to the fresh_tomatoes.py
+5)press the run button.
 
 ### What's included
 
