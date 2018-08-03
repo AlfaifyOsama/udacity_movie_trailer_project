@@ -10,7 +10,7 @@ https://github.com/OsamaAlfaify/udacity_movie_trailer_project
 1)Open this link apove.
 2)Clone the diractory.
 3)Open the file using Python IDLE or any IDLE do you prefer.
-4)Go to the fresh_tomatoes.py
+4)Go to the entertainment_center.py
 5)press the run button.
 
 ### What's included
